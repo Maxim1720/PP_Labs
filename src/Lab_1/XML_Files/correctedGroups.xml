@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "groups.dtd">
+<group>
+    	
+    <student firstname="Max" groupnumber="IVT-93" lastname="Musiev">
+        		
+        <subject score="5" title="programming"/>
+        		
+        <subject score="4" title="math"/>
+        		
+        <subject score="5" title="database design"/>
+        		
+        <subject score="3" title="economy"/>
+        		
+        <subject score="3" title="physics"/>
+        		
+        <average>4.0</average>
+        	
+    </student>
+    	
+    <student firstname="Ashton" groupnumber="IVT-93" lastname="Kutcher">
+        		
+        <subject score="3" title="programming"/>
+        		
+        <subject score="3" title="math"/>
+        		
+        <subject score="5" title="database design"/>
+        		
+        <subject score="2" title="economy"/>
+        		
+        <subject score="3" title="physics"/>
+        		
+        <average>3.2</average>
+        	
+    </student>
+    	
+    <student firstname="Scarlett" groupnumber="IVT-93" lastname="Johansson">
+        		
+        <subject score="5" title="programming"/>
+        		
+        <subject score="5" title="math"/>
+        		
+        <subject score="5" title="database design"/>
+        		
+        <subject score="5" title="economy"/>
+        		
+        <subject score="5" title="physics"/>
+        		
+        <average>5.0</average>
+        	
+    </student>
+    	
+    <student firstname="Oscar" groupnumber="IVT-93" lastname="Kruppov">
+        		
+        <subject score="5" title="programming"/>
+        		
+        <subject score="3" title="math"/>
+        		
+        <subject score="5" title="database design"/>
+        		
+        <subject score="3" title="economy"/>
+        		
+        <subject score="4" title="physics"/>
+        		
+        <average>4.0</average>
+        	
+    </student>
+    	
+    <student firstname="Egor" groupnumber="IVT-93" lastname="Star">
+        		
+        <subject score="4" title="programming"/>
+        		
+        <subject score="4" title="math"/>
+        		
+        <subject score="4" title="database design"/>
+        		
+        <subject score="3" title="economy"/>
+        		
+        <subject score="4" title="physics"/>
+        		
+        <average>3.8</average>
+        	
+    </student>
+    
+</group>

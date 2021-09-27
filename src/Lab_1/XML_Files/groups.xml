@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE group SYSTEM "groups.dtd">
+
+<group>
+	<student firstname="Max" lastname="Musiev" groupnumber="IVT-93">
+		<subject title = "programming" score="5"/>
+		<subject title = "math" score="4"/>
+		<subject title = "database design" score="5"/>
+		<subject title = "economy" score="3"/>
+		<subject title = "physics" score="3"/>
+		<average>dddwdwa</average>
+	</student>
+	<student firstname="Ashton" lastname="Kutcher" groupnumber="IVT-93">
+		<subject title = "programming" score="3"/>
+		<subject title = "math" score="3"/>
+		<subject title = "database design" score="5"/>
+		<subject title = "economy" score="2"/>
+		<subject title = "physics" score="3"/>
+		<average>77.89999999</average>
+	</student>
+	<student firstname="Scarlett" lastname="Johansson" groupnumber="IVT-93">
+		<subject title = "programming" score="5"/>
+		<subject title = "math" score="5"/>
+		<subject title = "database design" score="5"/>
+		<subject title = "economy" score="5"/>
+		<subject title = "physics" score="5"/>
+		<average>88</average>
+	</student>
+	<student firstname="Oscar" lastname="Kruppov" groupnumber="IVT-93">
+		<subject title = "programming" score="5"/>
+		<subject title = "math" score="3"/>
+		<subject title = "database design" score="5"/>
+		<subject title = "economy" score="3"/>
+		<subject title = "physics" score="4"/>
+		<average>789</average>
+	</student>
+	<student firstname="Egor" lastname="Star" groupnumber="IVT-93">
+		<subject title = "programming" score="4"/>
+		<subject title = "math" score="4"/>
+		<subject title = "database design" score="4"/>
+		<subject title = "economy" score="3"/>
+		<subject title = "physics" score="4"/>
+		<average>dddddddddddddddddddd88888888888888888888888888888888888</average>
+	</student>
+</group>
