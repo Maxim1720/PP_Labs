@@ -10,11 +10,10 @@ public class Main {
 
         System.out.println("source xml path:");
         String sourcePath = in.next();
-        //C:\\Users\\Kruppov07\\Desktop\\University\\xml\\groups.xml
+        //src/Lab_1/XML_Files/groups.xml
 
         System.out.println("target xml path:");
         String targetPath = in.next();
-        //C:\\Users\\Kruppov07\\Desktop\\University\\xml\\correctedGroups.xml
 
         XmlDocCorrector docCorrector = new XmlDocCorrector(sourcePath, targetPath);
         docCorrector.correct();

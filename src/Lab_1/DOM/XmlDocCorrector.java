@@ -69,7 +69,6 @@ public class XmlDocCorrector {
          }
      }
 
-
      public void correct()
      {
          AvgCorrector avgCorrector = new AvgCorrector(target);
@@ -94,5 +93,6 @@ public class XmlDocCorrector {
              e.printStackTrace();
          }
      }
+
 
 }

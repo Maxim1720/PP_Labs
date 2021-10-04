@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class AvgCorrector {
+
     DocumentBuilderFactory dbf;
     DocumentBuilder db;
     Document doc;
@@ -49,6 +50,7 @@ public class AvgCorrector {
     public Document correctAvg()
     {
         students = doc.getElementsByTagName("student");
+
         for(int i=0;i<students.getLength();i++)
         {
             Element student = (Element) students.item(i);
